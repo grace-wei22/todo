@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "learn TypeScript",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "task": "learn Angular",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "task": "learn React",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "task": "learn Vue",
+      "complete": false
+    },
+    {
+      "id": 5,
+      "task": "watch Netflix",
+      "complete": false
+    }
+  ]
+}
