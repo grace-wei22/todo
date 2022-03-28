@@ -19,6 +19,7 @@ function displayTodoList(): void {
     `${collection.userName}'s Todo List'` +
       `(${collection.getItemCounts().incomplete} items to do)`
   );
+  console.log('test');
   collection.getTodoItems(showCompleted).forEach((item) => item.printDetails());
 }
 
